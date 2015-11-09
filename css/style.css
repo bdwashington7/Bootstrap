@@ -1,0 +1,196 @@
+.textcolor{
+   color: rgb(230,165,73);
+}
+aligncenter{
+    margin: 0 auto;
+}
+
+.tittle{
+    font-size: 36px;
+}
+.tittle > img {
+    position: relative;
+    padding-left: 434px;
+    top: 21px;
+}
+.tittle > p {
+    position: absolute;
+    padding-left: 484px;
+    top: 21px;
+}
+.title-text {
+    padding-left: 430px;
+    margin-top: 18px;
+    font-size: 21px;
+}
+/*End here the Title area*/
+.menuz {
+    font-size: 19px;
+    margin-left: 105px !important;
+}
+.search>img{
+    position: relative;
+    float: right;
+}
+.search > p {
+    position: absolute;
+    float: right;
+    margin-left: 144px;
+    margin-top: 10px;
+}
+        /*Slide Start here..........*/
+.slide img {
+    margin-top: -1px;
+    position: relative;
+    left: 95px;
+}
+.arrow2 {
+    margin-top: -175px;
+    position: absolute;
+    left: 1px;
+}
+.arrow1 {
+    margin-top: -174px;
+    position: absolute;
+    left: 939px;
+}
+.slide_bottom img {
+    left: 135px;
+    position: absolute;
+    top: 322px;
+}
+.coption_slide {
+    background-color: #CFCFCF;
+    left: 110px;
+    opacity: 0.30;
+    position: absolute;
+    top: 204px;
+    width: 960px;
+    height: 127px;
+}
+}
+.coption_slide > p {
+    color: red;
+    height: 127px;
+    left: 51px;
+    position: absolute;
+    top: 10px;
+    width: 860px;
+}
+
+.controls img {
+    left: 560px;
+    position: absolute;
+    top: 297px;
+}
+/*box area start*/
+.content {
+    border: 2px solid #ececec;
+    border-radius: 7px;
+    box-shadow: 0 1px 1px;
+    height: 82px;
+    margin-bottom: 50px;
+    margin-left: 118px;
+    margin-top: 376px;
+    padding: 10px;
+    width: 941px;
+}
+.content p {
+    padding-left: 36px;
+    padding-right: 36px;
+    text-align: center;
+}
+/*Image gallary area*/
+.img_gallary {
+    font-size: 22px;
+    margin-left: 99px;
+    margin-top: -32px;
+    padding: 0;
+}
+.img_gallary span{
+    color:#e6a549;
+}
+.box-1 img {
+    padding-left: 0px;
+    margin-top: 13px;
+}
+/*post area start from here*/
+.post_left {
+    margin-left: 74px;
+    padding-top: 20px;
+    width: 440px;
+}
+.read-more-left img {
+    margin-left: -168px;
+    position: relative;
+    top: 361px;
+}
+
+
+.read-more-left-text p {
+    margin-left: 390px;
+    margin-top: 339px;
+    position: absolute;
+}
+
+/*rightpost*/
+.postz_right {
+    margin-top: -13px;
+}
+.right-post-1>img{
+    float: left;
+}
+.right-post-cont-2 {
+    padding-bottom: 20px;
+    padding-left: 116px;
+}
+.right-post-2>img{
+    float: left;
+}
+.right-post-cont-3 {
+    padding-bottom: 20px;
+    padding-left: 116px;
+}
+.right-post-3>img{
+    float: left;
+}
+.right-post-cont-4 {
+    padding-bottom: 20px;
+    padding-left: 116px;
+}
+.read-more-right > img {
+    margin-left: 278px;
+    margin-top: 5px;
+    position: relative;
+}
+.read-morez-left-text{
+    position: absolute;
+    margin-left: 1px;
+}
+.read-morez-left-text {
+    margin-left: 326px;
+    margin-top: -25px;
+    position: absolute;
+}
+
+/*information area*/
+.information>img{
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+}
+.left-side {
+    margin-left: 105px;
+    margin-top: -409px;
+    position: absolute;
+}
+.center-side {
+    margin-left: 564px;
+    margin-top: -409px;
+    position: absolute;
+}
+right-side {
+    margin-left: 989px;
+    margin-top: -409px;
+    position: absolute;
+}
